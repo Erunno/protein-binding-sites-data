@@ -1,0 +1,259 @@
+# YU dataset
+# proteins in pdb directory -- found 231, not found: 20
+
+HEADER:  protein  ligands
+
+# not found proteins:
+# ../biolip_structures/receptor/3qz6A.pdb ZN
+# ../biolip_structures/receptor/3u5ej.pdb ZN
+# ../biolip_structures/receptor/3t6mA.pdb ZN
+# ../biolip_structures/receptor/3t6mA.pdb ZN
+# ../biolip_structures/receptor/3v2eD.pdb ZN
+# ../biolip_structures/receptor/3uh9A.pdb ZN
+# ../biolip_structures/receptor/3rcqA.pdb ZN
+# ../biolip_structures/receptor/3v236.pdb ZN
+# ../biolip_structures/receptor/3u5eo.pdb ZN
+# ../biolip_structures/receptor/3qovA.pdb ZN
+# ../biolip_structures/receptor/3u5cb.pdb ZN
+# ../biolip_structures/receptor/3v22N.pdb ZN
+# ../biolip_structures/receptor/3u5ep.pdb ZN
+# ../biolip_structures/receptor/3tn1A.pdb ZN
+# ../biolip_structures/receptor/3u5ca.pdb ZN
+# ../biolip_structures/receptor/3u5cd.pdb ZN
+# ../biolip_structures/receptor/3q9kA.pdb ZN
+# ../biolip_structures/receptor/3v23Y.pdb ZN
+# ../biolip_structures/receptor/3swnB.pdb ZN
+# ../biolip_structures/receptor/3swnB.pdb ZN
+
+# found proteins
+../biolip_structures/receptor/3ramA.pdb ZN
+../biolip_structures/receptor/3ramA.pdb ZN
+../biolip_structures/receptor/3t92A.pdb ZN
+../biolip_structures/receptor/3ujzA.pdb ZN
+../biolip_structures/receptor/3q6vA.pdb ZN
+../biolip_structures/receptor/4fxoA.pdb ZN
+../biolip_structures/receptor/3s2eE.pdb ZN
+../biolip_structures/receptor/3vuvA.pdb ZN
+../biolip_structures/receptor/3vuvA.pdb ZN
+../biolip_structures/receptor/3vuvA.pdb ZN
+../biolip_structures/receptor/3u24A.pdb ZN
+../biolip_structures/receptor/3u24A.pdb ZN
+../biolip_structures/receptor/3u24A.pdb ZN
+../biolip_structures/receptor/3avrA.pdb ZN
+../biolip_structures/receptor/4gxwA.pdb ZN
+../biolip_structures/receptor/3tkkA.pdb ZN
+../biolip_structures/receptor/3u9gA.pdb ZN
+../biolip_structures/receptor/3vk6A.pdb ZN
+../biolip_structures/receptor/3vk6A.pdb ZN
+../biolip_structures/receptor/3vk6A.pdb ZN
+../biolip_structures/receptor/2y87A.pdb ZN
+../biolip_structures/receptor/2y87A.pdb ZN
+../biolip_structures/receptor/3t3wA.pdb ZN
+../biolip_structures/receptor/3ax1A.pdb ZN
+../biolip_structures/receptor/3un6A.pdb ZN
+../biolip_structures/receptor/3tgnA.pdb ZN
+../biolip_structures/receptor/3tgnA.pdb ZN
+../biolip_structures/receptor/3vthA.pdb ZN
+../biolip_structures/receptor/3rmqA.pdb ZN
+../biolip_structures/receptor/3ttsA.pdb ZN
+../biolip_structures/receptor/3rhgA.pdb ZN
+../biolip_structures/receptor/3rhgA.pdb ZN
+../biolip_structures/receptor/3t7lA.pdb ZN
+../biolip_structures/receptor/3qy1A.pdb ZN
+../biolip_structures/receptor/3av4A.pdb ZN
+../biolip_structures/receptor/3av4A.pdb ZN
+../biolip_structures/receptor/3av4A.pdb ZN
+../biolip_structures/receptor/3q9bA.pdb ZN
+../biolip_structures/receptor/2y7dA.pdb ZN
+../biolip_structures/receptor/3ubfA.pdb ZN
+../biolip_structures/receptor/3ubfA.pdb ZN
+../biolip_structures/receptor/3ubfA.pdb ZN
+../biolip_structures/receptor/3ubfA.pdb ZN
+../biolip_structures/receptor/3ubfA.pdb ZN
+../biolip_structures/receptor/3ubfA.pdb ZN
+../biolip_structures/receptor/3ubfA.pdb ZN
+../biolip_structures/receptor/3qwvA.pdb ZN
+../biolip_structures/receptor/3qwvA.pdb ZN
+../biolip_structures/receptor/2yd0A.pdb ZN
+../biolip_structures/receptor/3st1A.pdb ZN
+../biolip_structures/receptor/3rsnA.pdb ZN
+../biolip_structures/receptor/3qzcA.pdb ZN
+../biolip_structures/receptor/3qzcA.pdb ZN
+../biolip_structures/receptor/3umiA.pdb ZN
+../biolip_structures/receptor/3vovA.pdb ZN
+../biolip_structures/receptor/3qayA.pdb ZN
+../biolip_structures/receptor/4ac1X.pdb ZN
+../biolip_structures/receptor/4ac1X.pdb ZN
+../biolip_structures/receptor/4ac1X.pdb ZN
+../biolip_structures/receptor/3rzaA.pdb ZN
+../biolip_structures/receptor/3qsuB.pdb ZN
+../biolip_structures/receptor/4eguA.pdb ZN
+../biolip_structures/receptor/3rpcA.pdb ZN
+../biolip_structures/receptor/3rpcA.pdb ZN
+../biolip_structures/receptor/3udhA.pdb ZN
+../biolip_structures/receptor/2ygtA.pdb ZN
+../biolip_structures/receptor/3zq6A.pdb ZN
+../biolip_structures/receptor/4dglA.pdb ZN
+../biolip_structures/receptor/4egeA.pdb ZN
+../biolip_structures/receptor/4egeA.pdb ZN
+../biolip_structures/receptor/4egeA.pdb ZN
+../biolip_structures/receptor/3tp2A.pdb ZN
+../biolip_structures/receptor/3ruiA.pdb ZN
+../biolip_structures/receptor/3s6lA.pdb ZN
+../biolip_structures/receptor/3s6lA.pdb ZN
+../biolip_structures/receptor/3ua7C.pdb ZN
+../biolip_structures/receptor/3rxzA.pdb ZN
+../biolip_structures/receptor/3ugqA.pdb ZN
+../biolip_structures/receptor/3ucjA.pdb ZN
+../biolip_structures/receptor/3zxoA.pdb ZN
+../biolip_structures/receptor/3ux8A.pdb ZN
+../biolip_structures/receptor/4eg2A.pdb ZN
+../biolip_structures/receptor/4ej6A.pdb ZN
+../biolip_structures/receptor/2yjpA.pdb ZN
+../biolip_structures/receptor/2yjpA.pdb ZN
+../biolip_structures/receptor/4dyuA.pdb ZN
+../biolip_structures/receptor/3zvsA.pdb ZN
+../biolip_structures/receptor/3zvsA.pdb ZN
+../biolip_structures/receptor/4d9qA.pdb ZN
+../biolip_structures/receptor/4dlmA.pdb ZN
+../biolip_structures/receptor/4dlmA.pdb ZN
+../biolip_structures/receptor/4a37A.pdb ZN
+../biolip_structures/receptor/3qdhA.pdb ZN
+../biolip_structures/receptor/3swnA.pdb ZN
+../biolip_structures/receptor/4e6rA.pdb ZN
+../biolip_structures/receptor/3r2jA.pdb ZN
+../biolip_structures/receptor/4esjA.pdb ZN
+../biolip_structures/receptor/4esjA.pdb ZN
+../biolip_structures/receptor/4dwcA.pdb ZN
+../biolip_structures/receptor/4fukA.pdb ZN
+../biolip_structures/receptor/4fukA.pdb ZN
+../biolip_structures/receptor/3trzA.pdb ZN
+../biolip_structures/receptor/4dviB.pdb ZN
+../biolip_structures/receptor/3zwfA.pdb ZN
+../biolip_structures/receptor/3zwfA.pdb ZN
+../biolip_structures/receptor/3r0dA.pdb ZN
+../biolip_structures/receptor/4f14A.pdb ZN
+../biolip_structures/receptor/3rqzA.pdb ZN
+../biolip_structures/receptor/3rqzA.pdb ZN
+../biolip_structures/receptor/3ayfA.pdb ZN
+../biolip_structures/receptor/3qu6A.pdb ZN
+../biolip_structures/receptor/3qu6A.pdb ZN
+../biolip_structures/receptor/3qu6A.pdb ZN
+../biolip_structures/receptor/4dzhA.pdb ZN
+../biolip_structures/receptor/4dzhA.pdb ZN
+../biolip_structures/receptor/4ao7A.pdb ZN
+../biolip_structures/receptor/3b08B.pdb ZN
+../biolip_structures/receptor/4emeA.pdb ZN
+../biolip_structures/receptor/4emeA.pdb ZN
+../biolip_structures/receptor/4fyqA.pdb ZN
+../biolip_structures/receptor/3tc8A.pdb ZN
+../biolip_structures/receptor/4esnA.pdb ZN
+../biolip_structures/receptor/3u79A.pdb ZN
+../biolip_structures/receptor/3sngA.pdb ZN
+../biolip_structures/receptor/3sngA.pdb ZN
+../biolip_structures/receptor/3sngA.pdb ZN
+../biolip_structures/receptor/3sjpA.pdb ZN
+../biolip_structures/receptor/3sjpA.pdb ZN
+../biolip_structures/receptor/3sjpA.pdb ZN
+../biolip_structures/receptor/3v93A.pdb ZN
+../biolip_structures/receptor/3tqoA.pdb ZN
+../biolip_structures/receptor/4dguA.pdb ZN
+../biolip_structures/receptor/4fajA.pdb ZN
+../biolip_structures/receptor/4fajA.pdb ZN
+../biolip_structures/receptor/4fajA.pdb ZN
+../biolip_structures/receptor/2y50A.pdb ZN
+../biolip_structures/receptor/3qe3A.pdb ZN
+../biolip_structures/receptor/3s8pA.pdb ZN
+../biolip_structures/receptor/3rf4A.pdb ZN
+../biolip_structures/receptor/3rpdA.pdb ZN
+../biolip_structures/receptor/3sp7A.pdb ZN
+../biolip_structures/receptor/3sp7A.pdb ZN
+../biolip_structures/receptor/3b1bA.pdb ZN
+../biolip_structures/receptor/3axsA.pdb ZN
+../biolip_structures/receptor/3qdfA.pdb ZN
+../biolip_structures/receptor/3qdfA.pdb ZN
+../biolip_structures/receptor/3tasA.pdb ZN
+../biolip_structures/receptor/3v77A.pdb ZN
+../biolip_structures/receptor/3v77A.pdb ZN
+../biolip_structures/receptor/3qbeA.pdb ZN
+../biolip_structures/receptor/2y7iA.pdb ZN
+../biolip_structures/receptor/2y7iA.pdb ZN
+../biolip_structures/receptor/4e5vA.pdb ZN
+../biolip_structures/receptor/3vatA.pdb ZN
+../biolip_structures/receptor/3t1gA.pdb ZN
+../biolip_structures/receptor/3t1gA.pdb ZN
+../biolip_structures/receptor/3tp9A.pdb ZN
+../biolip_structures/receptor/4awyB.pdb ZN
+../biolip_structures/receptor/4awyB.pdb ZN
+../biolip_structures/receptor/3szyA.pdb ZN
+../biolip_structures/receptor/3szyA.pdb ZN
+../biolip_structures/receptor/3t9oA.pdb ZN
+../biolip_structures/receptor/3u04A.pdb ZN
+../biolip_structures/receptor/2yhwA.pdb ZN
+../biolip_structures/receptor/3tj9A.pdb ZN
+../biolip_structures/receptor/4ey2B.pdb ZN
+../biolip_structures/receptor/4evbA.pdb ZN
+../biolip_structures/receptor/4evbA.pdb ZN
+../biolip_structures/receptor/3ztvA.pdb ZN
+../biolip_structures/receptor/3ztvA.pdb ZN
+../biolip_structures/receptor/4a2vA.pdb ZN
+../biolip_structures/receptor/3aytA.pdb ZN
+../biolip_structures/receptor/3aytA.pdb ZN
+../biolip_structures/receptor/3aytA.pdb ZN
+../biolip_structures/receptor/3subA.pdb ZN
+../biolip_structures/receptor/3au2A.pdb ZN
+../biolip_structures/receptor/3au2A.pdb ZN
+../biolip_structures/receptor/3au2A.pdb ZN
+../biolip_structures/receptor/3rfrC.pdb ZN
+../biolip_structures/receptor/3rfrC.pdb ZN
+../biolip_structures/receptor/3r75A.pdb ZN
+../biolip_structures/receptor/4fc5A.pdb ZN
+../biolip_structures/receptor/4fc5A.pdb ZN
+../biolip_structures/receptor/4fc5A.pdb ZN
+../biolip_structures/receptor/4fc5A.pdb ZN
+../biolip_structures/receptor/4fc5A.pdb ZN
+../biolip_structures/receptor/2y43A.pdb ZN
+../biolip_structures/receptor/2y43A.pdb ZN
+../biolip_structures/receptor/3ux3A.pdb ZN
+../biolip_structures/receptor/3r6fA.pdb ZN
+../biolip_structures/receptor/4a3nA.pdb ZN
+../biolip_structures/receptor/4a3nA.pdb ZN
+../biolip_structures/receptor/3seyA.pdb ZN
+../biolip_structures/receptor/3urzA.pdb ZN
+../biolip_structures/receptor/3urzA.pdb ZN
+../biolip_structures/receptor/2yhgA.pdb ZN
+../biolip_structures/receptor/3tenA.pdb ZN
+../biolip_structures/receptor/4f78A.pdb ZN
+../biolip_structures/receptor/3swfB.pdb ZN
+../biolip_structures/receptor/3r3rA.pdb ZN
+../biolip_structures/receptor/4a7kA.pdb ZN
+../biolip_structures/receptor/4a7kA.pdb ZN
+../biolip_structures/receptor/4a7kA.pdb ZN
+../biolip_structures/receptor/4b29A.pdb ZN
+../biolip_structures/receptor/3q87A.pdb ZN
+../biolip_structures/receptor/4adnA.pdb ZN
+../biolip_structures/receptor/3sb5A.pdb ZN
+../biolip_structures/receptor/3tbgA.pdb ZN
+../biolip_structures/receptor/3tbgA.pdb ZN
+../biolip_structures/receptor/4ad9A.pdb ZN
+../biolip_structures/receptor/4ad9A.pdb ZN
+../biolip_structures/receptor/3sxkA.pdb ZN
+../biolip_structures/receptor/3q73B.pdb ZN
+../biolip_structures/receptor/3sp4A.pdb ZN
+../biolip_structures/receptor/4aojA.pdb ZN
+../biolip_structures/receptor/4aojA.pdb ZN
+../biolip_structures/receptor/3sp1A.pdb ZN
+../biolip_structures/receptor/4aapA.pdb ZN
+../biolip_structures/receptor/4aapA.pdb ZN
+../biolip_structures/receptor/3rymA.pdb ZN
+../biolip_structures/receptor/3rymA.pdb ZN
+../biolip_structures/receptor/3r3qA.pdb ZN
+../biolip_structures/receptor/3r3qA.pdb ZN
+../biolip_structures/receptor/4a2cA.pdb ZN
+../biolip_structures/receptor/4fgmA.pdb ZN
+../biolip_structures/receptor/4fo9A.pdb ZN
+../biolip_structures/receptor/4gqtA.pdb ZN
+../biolip_structures/receptor/4gqtA.pdb ZN
+../biolip_structures/receptor/3tdpA.pdb ZN
+../biolip_structures/receptor/3rayA.pdb ZN
+../biolip_structures/receptor/4fc8A.pdb ZN

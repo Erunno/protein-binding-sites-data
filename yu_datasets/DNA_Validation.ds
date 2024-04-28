@@ -1,0 +1,93 @@
+# YU dataset
+# proteins in pdb directory -- found 82, not found: 3
+
+HEADER:  protein  ligands
+
+# not found proteins:
+# ../biolip_structures/receptor/3s59A.pdb DNA
+# ../biolip_structures/receptor/3qwsA.pdb DNA
+# ../biolip_structures/receptor/3qwsA.pdb DNA
+
+# found proteins
+../biolip_structures/receptor/3vokA.pdb DNA
+../biolip_structures/receptor/4ecqA.pdb DNA
+../biolip_structures/receptor/4ecqA.pdb DNA
+../biolip_structures/receptor/3sm4A.pdb DNA
+../biolip_structures/receptor/3sm4A.pdb DNA
+../biolip_structures/receptor/4flyA.pdb DNA
+../biolip_structures/receptor/4flyA.pdb DNA
+../biolip_structures/receptor/3rmpA.pdb DNA
+../biolip_structures/receptor/3rmpA.pdb DNA
+../biolip_structures/receptor/3s6iA.pdb DNA
+../biolip_structures/receptor/3sscA.pdb DNA
+../biolip_structures/receptor/3sscA.pdb DNA
+../biolip_structures/receptor/3sqiA.pdb DNA
+../biolip_structures/receptor/3sqiA.pdb DNA
+../biolip_structures/receptor/3v9wB.pdb DNA
+../biolip_structures/receptor/3qqyA.pdb DNA
+../biolip_structures/receptor/3qqyA.pdb DNA
+../biolip_structures/receptor/3tedA.pdb DNA
+../biolip_structures/receptor/3tedA.pdb DNA
+../biolip_structures/receptor/4da4A.pdb DNA
+../biolip_structures/receptor/4da4A.pdb DNA
+../biolip_structures/receptor/3thxB.pdb DNA
+../biolip_structures/receptor/3thxB.pdb DNA
+../biolip_structures/receptor/3udgA.pdb DNA
+../biolip_structures/receptor/3udgA.pdb DNA
+../biolip_structures/receptor/3q8kA.pdb DNA
+../biolip_structures/receptor/3q8kA.pdb DNA
+../biolip_structures/receptor/3q8kA.pdb DNA
+../biolip_structures/receptor/4dihH.pdb DNA
+../biolip_structures/receptor/3thxA.pdb DNA
+../biolip_structures/receptor/3u7fB.pdb DNA
+../biolip_structures/receptor/3u4qA.pdb DNA
+../biolip_structures/receptor/3u58A.pdb DNA
+../biolip_structures/receptor/3auoA.pdb DNA
+../biolip_structures/receptor/3ulpA.pdb DNA
+../biolip_structures/receptor/3twmA.pdb DNA
+../biolip_structures/receptor/4aikA.pdb DNA
+../biolip_structures/receptor/4aikA.pdb DNA
+../biolip_structures/receptor/3rkqA.pdb DNA
+../biolip_structures/receptor/3rkqA.pdb DNA
+../biolip_structures/receptor/3s8qA.pdb DNA
+../biolip_structures/receptor/3s8qA.pdb DNA
+../biolip_structures/receptor/3zvkE.pdb DNA
+../biolip_structures/receptor/3zvkE.pdb DNA
+../biolip_structures/receptor/3qe9Y.pdb DNA
+../biolip_structures/receptor/3qe9Y.pdb DNA
+../biolip_structures/receptor/3ra4A.pdb DNA
+../biolip_structures/receptor/4e9fA.pdb DNA
+../biolip_structures/receptor/3zqlA.pdb DNA
+../biolip_structures/receptor/3zqlA.pdb DNA
+../biolip_structures/receptor/4f6mA.pdb DNA
+../biolip_structures/receptor/4f6mA.pdb DNA
+../biolip_structures/receptor/3qexA.pdb DNA
+../biolip_structures/receptor/3ugoA.pdb DNA
+../biolip_structures/receptor/3v1zA.pdb DNA
+../biolip_structures/receptor/3qmbA.pdb DNA
+../biolip_structures/receptor/3qmbA.pdb DNA
+../biolip_structures/receptor/3sz5A.pdb DNA
+../biolip_structures/receptor/3u4qB.pdb DNA
+../biolip_structures/receptor/3s57A.pdb DNA
+../biolip_structures/receptor/3s57A.pdb DNA
+../biolip_structures/receptor/3vk8A.pdb DNA
+../biolip_structures/receptor/3qx3A.pdb DNA
+../biolip_structures/receptor/3qx3A.pdb DNA
+../biolip_structures/receptor/3qx3A.pdb DNA
+../biolip_structures/receptor/3v6tA.pdb DNA
+../biolip_structures/receptor/3v6tA.pdb DNA
+../biolip_structures/receptor/3u2bC.pdb DNA
+../biolip_structures/receptor/3u2bC.pdb DNA
+../biolip_structures/receptor/4esjA.pdb DNA
+../biolip_structures/receptor/4esjA.pdb DNA
+../biolip_structures/receptor/3tq6A.pdb DNA
+../biolip_structures/receptor/3tq6A.pdb DNA
+../biolip_structures/receptor/3spdA.pdb DNA
+../biolip_structures/receptor/3spdA.pdb DNA
+../biolip_structures/receptor/4a15A.pdb DNA
+../biolip_structures/receptor/3vdyA.pdb DNA
+../biolip_structures/receptor/3vdyA.pdb DNA
+../biolip_structures/receptor/4fthA.pdb DNA
+../biolip_structures/receptor/4fthA.pdb DNA
+../biolip_structures/receptor/3rnuA.pdb DNA
+../biolip_structures/receptor/3rnuA.pdb DNA

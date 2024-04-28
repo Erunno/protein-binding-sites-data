@@ -1,0 +1,46 @@
+# YU dataset
+# proteins in pdb directory -- found 37, not found: 0
+
+HEADER:  protein  ligands
+
+# not found proteins:
+
+
+# found proteins
+../biolip_structures/receptor/3tw2A.pdb AMP
+../biolip_structures/receptor/2yj4A.pdb AMP
+../biolip_structures/receptor/2yb1A.pdb AMP
+../biolip_structures/receptor/3sp1A.pdb AMP
+../biolip_structures/receptor/3ttfA.pdb AMP
+../biolip_structures/receptor/3rojA.pdb AMP
+../biolip_structures/receptor/3rojA.pdb AMP
+../biolip_structures/receptor/3rphA.pdb AMP
+../biolip_structures/receptor/3rphA.pdb AMP
+../biolip_structures/receptor/3rrbA.pdb AMP
+../biolip_structures/receptor/3rrbA.pdb AMP
+../biolip_structures/receptor/2yabA.pdb AMP
+../biolip_structures/receptor/3aw8A.pdb AMP
+../biolip_structures/receptor/4dg8A.pdb AMP
+../biolip_structures/receptor/3tlzA.pdb AMP
+../biolip_structures/receptor/3szgA.pdb AMP
+../biolip_structures/receptor/4a59A.pdb AMP
+../biolip_structures/receptor/3vbfA.pdb AMP
+../biolip_structures/receptor/3uq8A.pdb AMP
+../biolip_structures/receptor/3uy4A.pdb AMP
+../biolip_structures/receptor/3sf0A.pdb AMP
+../biolip_structures/receptor/3tj7B.pdb AMP
+../biolip_structures/receptor/3rk0A.pdb AMP
+../biolip_structures/receptor/4e6nA.pdb AMP
+../biolip_structures/receptor/4eysA.pdb AMP
+../biolip_structures/receptor/3sbxA.pdb AMP
+../biolip_structures/receptor/4fryA.pdb AMP
+../biolip_structures/receptor/3splA.pdb AMP
+../biolip_structures/receptor/3b1rA.pdb AMP
+../biolip_structures/receptor/3b1rA.pdb AMP
+../biolip_structures/receptor/3tnjA.pdb AMP
+../biolip_structures/receptor/3qfoA.pdb AMP
+../biolip_structures/receptor/3r96A.pdb AMP
+../biolip_structures/receptor/3rexA.pdb AMP
+../biolip_structures/receptor/3tdhC.pdb AMP
+../biolip_structures/receptor/4eeiA.pdb AMP
+../biolip_structures/receptor/4eqlA.pdb AMP

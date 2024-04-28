@@ -1,0 +1,16 @@
+# YU dataset
+# proteins in pdb directory -- found 7, not found: 0
+
+HEADER:  protein  ligands
+
+# not found proteins:
+
+
+# found proteins
+../biolip_structures/receptor/3vmfA.pdb GTP
+../biolip_structures/receptor/3qxjA.pdb GTP
+../biolip_structures/receptor/3rycA.pdb GTP
+../biolip_structures/receptor/3rsbA.pdb GTP
+../biolip_structures/receptor/4a7wA.pdb GTP
+../biolip_structures/receptor/3q86A.pdb GTP
+../biolip_structures/receptor/4fhwA.pdb GTP

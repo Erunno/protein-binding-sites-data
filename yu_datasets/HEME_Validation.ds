@@ -1,0 +1,38 @@
+# YU dataset
+# proteins in pdb directory -- found 29, not found: 1
+
+HEADER:  protein  ligands
+
+# not found proteins:
+# ../biolip_structures/receptor/3q9kA.pdb HEME
+
+# found proteins
+../biolip_structures/receptor/4ek1A.pdb HEME
+../biolip_structures/receptor/3tfgA.pdb HEME
+../biolip_structures/receptor/4dtyA.pdb HEME
+../biolip_structures/receptor/3vr8C.pdb HEME
+../biolip_structures/receptor/4do1A.pdb HEME
+../biolip_structures/receptor/3sj5A.pdb HEME
+../biolip_structures/receptor/3r0gA.pdb HEME
+../biolip_structures/receptor/3ut2A.pdb HEME
+../biolip_structures/receptor/3swjA.pdb HEME
+../biolip_structures/receptor/3swjA.pdb HEME
+../biolip_structures/receptor/3rwlA.pdb HEME
+../biolip_structures/receptor/3tktA.pdb HEME
+../biolip_structures/receptor/3qzmA.pdb HEME
+../biolip_structures/receptor/3s79A.pdb HEME
+../biolip_structures/receptor/3qnsA.pdb HEME
+../biolip_structures/receptor/3r9bA.pdb HEME
+../biolip_structures/receptor/3rtlA.pdb HEME
+../biolip_structures/receptor/3rtlA.pdb HEME
+../biolip_structures/receptor/3qz1A.pdb HEME
+../biolip_structures/receptor/3sikA.pdb HEME
+../biolip_structures/receptor/3tyiA.pdb HEME
+../biolip_structures/receptor/3awmA.pdb HEME
+../biolip_structures/receptor/3qpiA.pdb HEME
+../biolip_structures/receptor/3vp5A.pdb HEME
+../biolip_structures/receptor/3ayfA.pdb HEME
+../biolip_structures/receptor/3ayfA.pdb HEME
+../biolip_structures/receptor/4enrA.pdb HEME
+../biolip_structures/receptor/4fwyA.pdb HEME
+../biolip_structures/receptor/4fb2A.pdb HEME
